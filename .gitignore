@@ -217,9 +217,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Outputs (optional if you regenerate plots)
-outputs/
-
 # Data science
 outputs/plots/
 *.log
