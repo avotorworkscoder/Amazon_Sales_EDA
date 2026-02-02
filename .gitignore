@@ -218,6 +218,5 @@ __pycache__/
 Thumbs.db
 
 # Data science
-outputs/plots/
 *.log
 .DS_Store
