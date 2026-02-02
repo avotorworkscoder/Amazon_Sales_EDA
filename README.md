@@ -109,17 +109,17 @@ Cleaning performed:
 
 ## 📈 Example Visualizations
 
-![Pricing_vs_customer_rating](outputs/plots/Pricing_vs_customer_rating.png)
+![Pricing_vs_customer_rating](output/plots/Pricing_vs_customer_rating.png)
 
 ## 📊 Key Visualizations
 
 | Rating Distribution | Pricing Strategy |
 |--------------------|----------------|
-| ![](outputs/plots/Amazon_products_rating_distribution.png) | ![](outputs/plots/Pricing_strategy.png) |
+| ![](output/plots/Amazon_products_rating_distribution.png) | ![](output/plots/Pricing_strategy.png) |
 
 | Heatmap | Wordcloud |
 |---------|-----------|
-| ![](outputs/plots/Correlation_matrix.png) | ![](outputs/plots/Word_cloud.png) |
+| ![](output/plots/Correlation_matrix.png) | ![](output/plots/Word_cloud.png) |
 
 
 
