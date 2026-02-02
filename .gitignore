@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data science
+outputs/plots/
+*.log
+.DS_Store
