@@ -139,7 +139,7 @@ Cleaning performed:
 
 ### 1. Clone repo
 
-git clone https://github.com/avotorworkscoder/Amazon_Sales_EDA
+git clone https://github.com/avotorworkscoder/Amazon_Sales_EDA.git
 cd Amazon_Sales_EDA
 
 ### 2. Install dependencies
